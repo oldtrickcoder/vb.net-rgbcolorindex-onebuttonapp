@@ -1,0 +1,11 @@
+C:\Users\CAL1\source\repos\RGB Color App\RGB Color App\bin\Debug\RGB Color App.exe.config
+C:\Users\CAL1\source\repos\RGB Color App\RGB Color App\bin\Debug\RGB Color App.exe
+C:\Users\CAL1\source\repos\RGB Color App\RGB Color App\bin\Debug\RGB Color App.pdb
+C:\Users\CAL1\source\repos\RGB Color App\RGB Color App\bin\Debug\RGB Color App.xml
+C:\Users\CAL1\source\repos\RGB Color App\RGB Color App\obj\Debug\RGB_Color_App.Form1.resources
+C:\Users\CAL1\source\repos\RGB Color App\RGB Color App\obj\Debug\RGB_Color_App.Resources.resources
+C:\Users\CAL1\source\repos\RGB Color App\RGB Color App\obj\Debug\RGB Color App.vbproj.GenerateResource.cache
+C:\Users\CAL1\source\repos\RGB Color App\RGB Color App\obj\Debug\RGB Color App.vbproj.CoreCompileInputs.cache
+C:\Users\CAL1\source\repos\RGB Color App\RGB Color App\obj\Debug\RGB Color App.exe
+C:\Users\CAL1\source\repos\RGB Color App\RGB Color App\obj\Debug\RGB Color App.xml
+C:\Users\CAL1\source\repos\RGB Color App\RGB Color App\obj\Debug\RGB Color App.pdb
